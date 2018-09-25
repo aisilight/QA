@@ -9,6 +9,7 @@
 [Не изменяется валюта](https://github.com/aisilight/QA/blob/master/prestashop/currency.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/prestashop/currency.jpg)<br>
 [Не подсчитывается количество товаров](https://github.com/aisilight/QA/blob/master/prestashop/number%20of%20goods.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/prestashop/number%20of%20goods.png)<br>
 [Не подсчитывается общая сумма заказа](https://github.com/aisilight/QA/blob/master/prestashop/order%20price.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/prestashop/order%20price.png)<br>
+[Не удаляется товар](https://github.com/aisilight/QA/blob/master/prestashop/remove%20from%20cart.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/prestashop/remove%20from%20cart.png)<br>
 
 **games**
 ***
