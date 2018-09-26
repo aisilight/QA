@@ -1,6 +1,6 @@
 # QA
 
-**web**
+**prestashop web**
 ***
 [Отсутствует подтверждение товара](https://github.com/aisilight/QA/blob/master/prestashop/no%20confirmation%20of%20goods.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/prestashop/no%20confirmation%20of%20goods.png )<br>
 [Заголовок страницы](https://github.com/aisilight/QA/blob/master/prestashop/title%20page.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/prestashop/title%20page.jpg )<br>
@@ -11,6 +11,9 @@
 [Не подсчитывается общая сумма заказа](https://github.com/aisilight/QA/blob/master/prestashop/order%20price.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/prestashop/order%20price.png)<br>
 [Не удаляется товар](https://github.com/aisilight/QA/blob/master/prestashop/remove%20from%20cart.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/prestashop/remove%20from%20cart.png)<br>
 [Не меняется язык](https://github.com/aisilight/QA/blob/master/prestashop/switch%20language.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/prestashop/switch%20language.png)<br>
+
+**web**
+***
 
 **games**
 ***
