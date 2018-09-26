@@ -15,7 +15,7 @@
 **web**
 ***
 
-**games**
+**games desktop**
 ***
 [CTRL - BrainBread 2](https://github.com/aisilight/QA/blob/master/games/CTRL.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/games/CTRL.jpg)<br>
 [loading - BrainBread 2](https://github.com/aisilight/QA/blob/master/games/loading.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/games/loading.jpg)<br>
