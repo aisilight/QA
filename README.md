@@ -14,6 +14,7 @@
 
 **web**
 ***
+[Текст описания накладывается - бешенаясушка](https://github.com/aisilight/QA/blob/master/web/Description%20text.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/web/Description%20text.jpg)<br>
 
 **games desktop**
 ***
