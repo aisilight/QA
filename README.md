@@ -15,6 +15,7 @@
 **web**
 ***
 [Текст описания накладывается - бешенаясушка](https://github.com/aisilight/QA/blob/master/web/Description%20text.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/web/Description%20text.jpg)<br>
+[Не принимается значение - Приватбанк (26.09.18)](https://github.com/aisilight/QA/blob/master/web/PIB.pdf) + [скрин](https://github.com/aisilight/QA/blob/master/web/PIB.png)<br>
 
 **games desktop**
 ***
